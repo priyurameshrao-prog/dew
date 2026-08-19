@@ -1,9 +1,15 @@
-
 # To-Do List App
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-blue?style=for-the-badge)](https://dev-ten.vercel.app)
+A simple To-Do List web application with Dark Mode.
 
-A simple To-Do List application with task management and dark mode.
+## 🚀 Live Demo
+
+[👉 Open Live Demo](https://dev-ten.vercel.app)
+
+## 💻 Source Code
+
+[👉 View Source Code on GitHub](https://github.com/priyurameshrao-prog/dev)
+
 ## Overview
 This project is a simple to-do list application that allows users to add, remove, and manage tasks. It is built using HTML, CSS, and JavaScript.
 
