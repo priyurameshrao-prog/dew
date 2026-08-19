@@ -3,8 +3,8 @@
 A simple To-Do List web application with Dark Mode.
 
 ## 🚀 Live Demo
+https://dew-ten.vercel.app/
 
-[👉 Open Live Demo](https://dev-ten.vercel.app)
 
 ## 💻 Source Code
 
